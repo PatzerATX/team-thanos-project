@@ -1,2 +1,5 @@
 # team-thanos-project
-CS3354 Project
+
+Class: CS3354
+Team Members: Ryan Ashworth
+Scope: OOP based Java program
